@@ -1,4 +1,4 @@
-// alert("This site is best viewed in full screen(press F11) & 100% page view");
+alert("This site is best viewed in full screen(press F11) & 67% page view");
 let taskbar = document.getElementsByClassName("taskbar")[0];
 let startmenu = document.getElementsByClassName("startmenu")[0];
 
